@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hakateq/public_html/
+    - export DEPLOYPATH=/home/hakacdmf/public_html/
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
